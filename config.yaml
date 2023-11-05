@@ -1,0 +1,13 @@
+credentials:
+  usernames:
+    admin:
+      email: admin@gmail.com
+      name: The Lazy Guardians
+      password: $2b$12$C65zdh7iSAvVn23cx.DS9OBPd5qdX5UKPuBte43iCg/fYaFRc855m
+cookie:
+  expiry_days: 30
+  key: abcdefg
+  name: lazysec
+preauthorized:
+  emails:
+  - melsby@gmail.com
